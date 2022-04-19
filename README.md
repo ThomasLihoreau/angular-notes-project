@@ -1,3 +1,7 @@
-# angular-ivy-5qguwk
+# A basic notes/tasks website
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-5qguwk)
+## Members:
+* Steven
+* Thomas
+
+[Deployed on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-5qguwk)
