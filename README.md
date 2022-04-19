@@ -4,4 +4,4 @@
 * Steven
 * Thomas
 
-[Deployed on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-5qguwk)
+[Deployed on StackBlitz ⚡️](https://angular-ivy-5qguwk.stackblitz.io/)
